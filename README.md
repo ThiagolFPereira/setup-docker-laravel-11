@@ -4,15 +4,15 @@
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone -b laravel-11-with-php-8.3 https://github.com/ThiagolFPereira/setup-docker-laravel-11.git laravel-11
+git clone https://github.com/ThiagolFPereira/setup-docker-laravel-11.git
 ```
 ```sh
-cd laravel-11
+cd setup-docker-laravel-11
 ```
 
 Suba os containers do projeto
 ```sh
-docker-compose up -d
+docker compose up -d
 ```
 
 
