@@ -12,7 +12,7 @@ cd setup-docker-laravel-11
 
 Suba os containers do projeto
 ```sh
-docker compose up -d
+docker-compose up -d
 ```
 
 
